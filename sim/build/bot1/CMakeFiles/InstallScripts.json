@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/sam/urdf_ws/sim/build/bot1/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
