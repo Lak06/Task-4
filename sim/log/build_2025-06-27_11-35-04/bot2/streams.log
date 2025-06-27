@@ -1,0 +1,29 @@
+[0.067s] Invoking command in '/home/sam/urdf_ws/sim/build/bot2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sam/vtask/install/rob_con:/home/sam/ros2_ws1/install/my_rob_con:/opt/ros/humble /usr/local/bin/cmake --build /home/sam/urdf_ws/sim/build/bot2 -- -j8 -l8
+[0.205s] Invoked command in '/home/sam/urdf_ws/sim/build/bot2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sam/vtask/install/rob_con:/home/sam/ros2_ws1/install/my_rob_con:/opt/ros/humble /usr/local/bin/cmake --build /home/sam/urdf_ws/sim/build/bot2 -- -j8 -l8
+[0.206s] Invoking command in '/home/sam/urdf_ws/sim/build/bot2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sam/vtask/install/rob_con:/home/sam/ros2_ws1/install/my_rob_con:/opt/ros/humble /usr/local/bin/cmake --install /home/sam/urdf_ws/sim/build/bot2
+[0.206s] -- Install configuration: ""
+[0.207s] -- Up-to-date: /home/sam/urdf_ws/sim/install/bot2/share/bot2/config
+[0.207s] -- Up-to-date: /home/sam/urdf_ws/sim/install/bot2/share/bot2/launch
+[0.207s] -- Up-to-date: /home/sam/urdf_ws/sim/install/bot2/share/bot2/launch/bot2.launch.py
+[0.208s] -- Up-to-date: /home/sam/urdf_ws/sim/install/bot2/share/bot2/launch/bot2_gazebo.launch.py
+[0.208s] -- Up-to-date: /home/sam/urdf_ws/sim/install/bot2/share/bot2/models
+[0.208s] -- Installing: /home/sam/urdf_ws/sim/install/bot2/share/bot2/models/bot_2.urdf
+[0.208s] -- Up-to-date: /home/sam/urdf_ws/sim/install/bot2/share/bot2/rviz
+[0.208s] -- Up-to-date: /home/sam/urdf_ws/sim/install/bot2/share/bot2/rviz/urdf_config.rviz
+[0.208s] -- Up-to-date: /home/sam/urdf_ws/sim/install/bot2/share/bot2/src
+[0.208s] -- Up-to-date: /home/sam/urdf_ws/sim/install/bot2/share/ament_index/resource_index/package_run_dependencies/bot2
+[0.209s] -- Up-to-date: /home/sam/urdf_ws/sim/install/bot2/share/ament_index/resource_index/parent_prefix_path/bot2
+[0.209s] -- Up-to-date: /home/sam/urdf_ws/sim/install/bot2/share/bot2/environment/ament_prefix_path.sh
+[0.209s] -- Up-to-date: /home/sam/urdf_ws/sim/install/bot2/share/bot2/environment/ament_prefix_path.dsv
+[0.209s] -- Up-to-date: /home/sam/urdf_ws/sim/install/bot2/share/bot2/environment/path.sh
+[0.209s] -- Up-to-date: /home/sam/urdf_ws/sim/install/bot2/share/bot2/environment/path.dsv
+[0.209s] -- Up-to-date: /home/sam/urdf_ws/sim/install/bot2/share/bot2/local_setup.bash
+[0.209s] -- Up-to-date: /home/sam/urdf_ws/sim/install/bot2/share/bot2/local_setup.sh
+[0.209s] -- Up-to-date: /home/sam/urdf_ws/sim/install/bot2/share/bot2/local_setup.zsh
+[0.209s] -- Up-to-date: /home/sam/urdf_ws/sim/install/bot2/share/bot2/local_setup.dsv
+[0.209s] -- Installing: /home/sam/urdf_ws/sim/install/bot2/share/bot2/package.dsv
+[0.209s] -- Up-to-date: /home/sam/urdf_ws/sim/install/bot2/share/ament_index/resource_index/packages/bot2
+[0.212s] -- Up-to-date: /home/sam/urdf_ws/sim/install/bot2/share/bot2/cmake/bot2Config.cmake
+[0.212s] -- Up-to-date: /home/sam/urdf_ws/sim/install/bot2/share/bot2/cmake/bot2Config-version.cmake
+[0.212s] -- Up-to-date: /home/sam/urdf_ws/sim/install/bot2/share/bot2/package.xml
+[0.274s] Invoked command in '/home/sam/urdf_ws/sim/build/bot2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sam/vtask/install/rob_con:/home/sam/ros2_ws1/install/my_rob_con:/opt/ros/humble /usr/local/bin/cmake --install /home/sam/urdf_ws/sim/build/bot2

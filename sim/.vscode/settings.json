@@ -1,0 +1,19 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/sam/vtask/build/rob_con",
+        "/home/sam/vtask/install/rob_con/lib/python3.10/site-packages",
+        "/home/sam/ros2_ws1/build/my_rob_con",
+        "/home/sam/ros2_ws1/install/my_rob_con/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/sam/vtask/build/rob_con",
+        "/home/sam/vtask/install/rob_con/lib/python3.10/site-packages",
+        "/home/sam/ros2_ws1/build/my_rob_con",
+        "/home/sam/ros2_ws1/install/my_rob_con/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "ros.distro": "humble"
+}

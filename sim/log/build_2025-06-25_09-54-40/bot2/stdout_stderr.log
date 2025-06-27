@@ -1,0 +1,25 @@
+-- Install configuration: ""
+-- Up-to-date: /home/sam/urdf_ws/sim/install/bot2/share/bot2/config
+-- Up-to-date: /home/sam/urdf_ws/sim/install/bot2/share/bot2/launch
+-- Up-to-date: /home/sam/urdf_ws/sim/install/bot2/share/bot2/launch/bot2.launch.py
+-- Installing: /home/sam/urdf_ws/sim/install/bot2/share/bot2/launch/bot2_gazebo.launch.py
+-- Up-to-date: /home/sam/urdf_ws/sim/install/bot2/share/bot2/models
+-- Up-to-date: /home/sam/urdf_ws/sim/install/bot2/share/bot2/models/bot_2.urdf
+-- Up-to-date: /home/sam/urdf_ws/sim/install/bot2/share/bot2/rviz
+-- Up-to-date: /home/sam/urdf_ws/sim/install/bot2/share/bot2/rviz/urdf_config.rviz
+-- Up-to-date: /home/sam/urdf_ws/sim/install/bot2/share/bot2/src
+-- Up-to-date: /home/sam/urdf_ws/sim/install/bot2/share/ament_index/resource_index/package_run_dependencies/bot2
+-- Up-to-date: /home/sam/urdf_ws/sim/install/bot2/share/ament_index/resource_index/parent_prefix_path/bot2
+-- Up-to-date: /home/sam/urdf_ws/sim/install/bot2/share/bot2/environment/ament_prefix_path.sh
+-- Up-to-date: /home/sam/urdf_ws/sim/install/bot2/share/bot2/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/sam/urdf_ws/sim/install/bot2/share/bot2/environment/path.sh
+-- Up-to-date: /home/sam/urdf_ws/sim/install/bot2/share/bot2/environment/path.dsv
+-- Up-to-date: /home/sam/urdf_ws/sim/install/bot2/share/bot2/local_setup.bash
+-- Up-to-date: /home/sam/urdf_ws/sim/install/bot2/share/bot2/local_setup.sh
+-- Up-to-date: /home/sam/urdf_ws/sim/install/bot2/share/bot2/local_setup.zsh
+-- Up-to-date: /home/sam/urdf_ws/sim/install/bot2/share/bot2/local_setup.dsv
+-- Installing: /home/sam/urdf_ws/sim/install/bot2/share/bot2/package.dsv
+-- Up-to-date: /home/sam/urdf_ws/sim/install/bot2/share/ament_index/resource_index/packages/bot2
+-- Up-to-date: /home/sam/urdf_ws/sim/install/bot2/share/bot2/cmake/bot2Config.cmake
+-- Up-to-date: /home/sam/urdf_ws/sim/install/bot2/share/bot2/cmake/bot2Config-version.cmake
+-- Up-to-date: /home/sam/urdf_ws/sim/install/bot2/share/bot2/package.xml

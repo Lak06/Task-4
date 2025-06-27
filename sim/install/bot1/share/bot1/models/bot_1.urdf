@@ -158,4 +158,29 @@
     <origin xyz="0.2 0.0 -0.05" rpy="0 0 0"/>
   </joint>
 
+    <!-- Gazebo -->
+    <gazebo>
+        <plugin name="diff_drive_controller" filename="libgazebo_ros_diff_drive.so">
+            <ros>
+                <namespace>/</namespace>
+            </ros>
+
+            <left_joint>base_left_wheel_joint</left_joint>
+            <right_joint>base_right_wheel_joint</right_joint>
+
+            <wheel_separation>0.45</wheel_separation> 
+            <wheel_diameter>0.2</wheel_diameter>
+
+            <odometry_source>world</odometry_source>
+
+            <command_topic>cmd_vel</command_topic>
+            <odometry_topic>odom</odometry_topic>
+
+            <max_wheel_torque>10.0</max_wheel_torque>
+
+            <publish_wheel_tf>true</publish_wheel_tf>
+            <publish_wheel_joint_state>true</publish_wheel_joint_state>
+        </plugin>
+    </gazebo>
+
 </robot>

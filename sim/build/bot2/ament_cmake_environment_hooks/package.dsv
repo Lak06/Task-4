@@ -1,0 +1,4 @@
+source;share/bot2/local_setup.bash
+source;share/bot2/local_setup.dsv
+source;share/bot2/local_setup.sh
+source;share/bot2/local_setup.zsh

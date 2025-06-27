@@ -1,0 +1,9 @@
+/home/sam/urdf_ws/sim/build/bot2/CMakeFiles/uninstall.dir
+/home/sam/urdf_ws/sim/build/bot2/CMakeFiles/bot2_uninstall.dir
+/home/sam/urdf_ws/sim/build/bot2/CMakeFiles/test.dir
+/home/sam/urdf_ws/sim/build/bot2/CMakeFiles/edit_cache.dir
+/home/sam/urdf_ws/sim/build/bot2/CMakeFiles/rebuild_cache.dir
+/home/sam/urdf_ws/sim/build/bot2/CMakeFiles/list_install_components.dir
+/home/sam/urdf_ws/sim/build/bot2/CMakeFiles/install.dir
+/home/sam/urdf_ws/sim/build/bot2/CMakeFiles/install/local.dir
+/home/sam/urdf_ws/sim/build/bot2/CMakeFiles/install/strip.dir
